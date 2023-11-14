@@ -1,2 +1,2 @@
-# first-repository
+# empty repo
 just the first one....
